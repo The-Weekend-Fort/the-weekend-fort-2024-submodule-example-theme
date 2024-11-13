@@ -537,7 +537,7 @@
   "shopify": {
     "checkout": {
       "customer_account": {
-        "sign_in_link_label": "Have an accouxnt? Log in"
+        "sign_in_link_label": "Have an accouxnt?"
       }
     }
   }
