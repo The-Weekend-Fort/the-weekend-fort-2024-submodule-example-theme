@@ -136,10 +136,17 @@
     },
     "content_for_index": [],
     "blocks": {
-      "6603664506335945664": {
-        "type": "shopify://apps/transtore-language-translate/blocks/switcher_embed_block/afeffe82-e563-4f78-90f4-f1e3d96286c3",
+      "7079518687644006178": {
+        "type": "shopify://apps/checkout-blocks/blocks/app-embed/b0024ca5-9de8-4bf0-a92f-cd0783877ae2",
         "disabled": false,
-        "settings": {}
+        "settings": {
+          "utm_id": true,
+          "utm_source": true,
+          "utm_medium": true,
+          "utm_campaign": true,
+          "utm_term": true,
+          "ref": true
+        }
       }
     },
     "color_schemes": {
