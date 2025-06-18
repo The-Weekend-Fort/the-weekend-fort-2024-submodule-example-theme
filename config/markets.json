@@ -12,9 +12,6 @@
     "us": {
       "parent": "@default"
     },
-    "canada": {
-      "parent": "@default"
-    },
     "mexico": {
       "parent": "@default"
     }
