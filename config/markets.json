@@ -14,6 +14,9 @@
     },
     "canada": {
       "parent": "@default"
+    },
+    "mexico": {
+      "parent": "@default"
     }
   }
 }
