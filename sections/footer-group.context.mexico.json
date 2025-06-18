@@ -8,20 +8,9 @@
  * ------------------------------------------------------------
  */
 {
-  "parent": "index.json",
+  "parent": "footer-group.json",
   "context": {
-    "market": "us"
+    "market": "mexico"
   },
-  "sections": {
-    "image_banner": {
-      "settings": {},
-      "blocks": {
-        "heading": {
-          "settings": {
-            "heading": "UNITED STATES"
-          }
-        }
-      }
-    }
-  }
+  "sections": {}
 }
